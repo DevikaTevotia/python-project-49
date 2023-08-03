@@ -1,5 +1,6 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/DevikaTevotia/python-project-49/workflows/hexlet-check/badge.svg)](https://github.com/DevikaTevotia/python-project-49/actions)
+
 [brain-games] (https://asciinema.org/a/CjKd6iHMyVFaCs3kcIYXj4AcM)
 [brain-even] (https://asciinema.org/a/vBT6TIwYiRvvHtP5ivCohUPt4)
 [brain-calc] (https://asciinema.org/a/D2wlQZ6Ch3QGe0KcyxCmHrbco)
